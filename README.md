@@ -107,4 +107,3 @@ Through the project, I learned how data preparation, feature creation, model tra
 
 I used ChatGPT during development to help me understand machine learning concepts and clarify technical questions as I worked on the project.
 
-```
